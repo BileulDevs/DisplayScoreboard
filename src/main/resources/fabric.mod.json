@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "displayscoreboard",
+  "version": "${version}",
+  "name": "DisplayScoreboard",
+  "description": "",
+  "authors": [
+    "Darcosse"
+  ],
+  "license": "MIT License",
+  "icon": "assets/displayscoreboard/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.darcosse.displayscoreboard.fabric.DisplayScoreboard"
+    ]
+  },
+  "depends": {
+    "minecraft": "1.21.1"
+  }
+}

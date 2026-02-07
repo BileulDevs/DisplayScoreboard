@@ -1,0 +1,9 @@
+{
+  "command.displayscoreboard.reload.success": "§aConfiguration rechargée avec succès !",
+  "command.displayscoreboard.reload.error": "§cÉchec du rechargement de la config : %s",
+  "command.displayscoreboard.add.success": "§aObjectif '%s' ajouté avec succès.",
+  "command.displayscoreboard.add.exists": "§cUn objectif nommé '%s' existe déjà !",
+  "command.displayscoreboard.remove.success": "§eObjectif '%s' supprimé.",
+  "command.displayscoreboard.remove.not_found": "§cObjectif '%s' introuvable.",
+  "command.displayscoreboard.modify.success": "§bPropriété '%s' mise à jour pour '%s'."
+}
